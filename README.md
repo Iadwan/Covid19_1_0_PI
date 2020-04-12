@@ -20,6 +20,9 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+The Opinions Expressed In This Post Are My Own And Not Necessarily Those Of My Employer
 
 Quick Demo:
 https://www.youtube.com/watch?v=SVrCMi2pp6k
+
+
