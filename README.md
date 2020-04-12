@@ -1,4 +1,4 @@
-Covid19_1_0.py
+Covid19_1_1.py
 
 Author : Ibrahim Aladwan
 Date   : 12/04/2020
