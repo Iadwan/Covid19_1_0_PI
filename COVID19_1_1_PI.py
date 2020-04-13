@@ -109,8 +109,7 @@ def main():
         total_deaths = str(country_data[0]["total_deaths"])
         
         
-        ##date_time = datetime.now()
-
+        date_time = str(datetime.datetime.now())
 
         lcd_string("COVID19 Infects:",LCD_LINE_1)
         lcd_string("By Ibrahim.....",LCD_LINE_2)
@@ -118,7 +117,7 @@ def main():
         time.sleep(3)
     
         lcd_string("Date : ",LCD_LINE_1)
-        lcd_string("2020-04-12 11:38",LCD_LINE_2)
+        lcd_string(date_time,LCD_LINE_2)
         time.sleep(3)
 
         lcd_string("Jordan-Confirmed",LCD_LINE_1)
